@@ -1,0 +1,15 @@
+---
+Language: Cpp
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+UseTab: false
+AlignConsecutiveMacros: Consecutive
+BreakBeforeBraces: WebKit
+# InsertBraces: true
+SortIncludes: true
+SpaceAfterCStyleCast: true
+SpaceBeforeAssignmentOperators: true
+IndentCaseLabels: true
+# LineEnding: LF
+# InsertNewlineAtEOF: true
